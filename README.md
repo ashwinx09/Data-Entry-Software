@@ -1,2 +1,2 @@
 # Data-Entry-Software
-Developed this data entry app mainly using Python for backend coding and Tkinter for making graphical user interface.
+![Rainbow Gradient Pink and Purple Virtual Background](https://github.com/ashwinx09/Data-Entry-Software/assets/171764710/a6465672-62b2-4cc2-aff3-3b4705756e8d)
